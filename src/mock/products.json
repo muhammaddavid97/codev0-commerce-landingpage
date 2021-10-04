@@ -1,0 +1,78 @@
+[
+ {
+     "id":1,
+     "image_product":"https://m.media-amazon.com/images/I/91371taoTyL._AC_UL320_.jpg",
+     "icon_products":[
+       "<i class='far fa-heart icon-featured-products'></i>",
+       "<i class='fas fa-shopping-bag icon-featured-products'></i>",
+       "<i class='fas fa-search icon-featured-products'></i>"
+     ],
+    "title_product":"Boys T-Shirt",
+    "rating_product":[
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>"
+    ],
+    "price_product":50000,
+    "conditions":false
+ },
+ {
+     "id":2,
+     "image_product":"https://m.media-amazon.com/images/I/81qAIicuwZL._AC_UL320_.jpg",
+     "icon_products":[
+       "<i class='far fa-heart icon-featured-products'></i>",
+       "<i class='fas fa-shopping-bag icon-featured-products'></i>",
+       "<i class='fas fa-search icon-featured-products'></i>"
+     ],
+    "title_product":"Kids T-Shirt",
+    "rating_product":[
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>"
+    ],
+    "price_product":100000,
+    "conditions":false
+ },
+ {
+     "id":3,
+     "image_product":"https://m.media-amazon.com/images/I/61xI2mGr8rS._AC_UL320_.jpg",
+     "icon_products":[
+       "<i class='far fa-heart icon-featured-products'></i>",
+       "<i class='fas fa-shopping-bag icon-featured-products'></i>",
+       "<i class='fas fa-search icon-featured-products'></i>"
+     ],
+    "title_product":"Womens T-Shirt",
+    "rating_product":[
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>"
+    ],
+    "price_product":25000,
+    "conditions":false
+ },
+ {
+     "id":4,
+     "image_product":"https://m.media-amazon.com/images/I/71LQknrzcLS._AC_UL320_.jpg",
+     "icon_products":[
+       "<i class='far fa-heart icon-featured-products'></i>",
+       "<i class='fas fa-shopping-bag icon-featured-products'></i>",
+       "<i class='fas fa-search icon-featured-products'></i>"
+     ],
+    "title_product":"Papa T-Shirt",
+    "rating_product":[
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>",
+      "<i class='fas fa-star'></i>"
+    ],
+    "price_product":12000,
+    "conditions":false
+ }
+]
